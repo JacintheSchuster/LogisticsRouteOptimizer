@@ -52,14 +52,14 @@ Traditional route optimization systems expose sensitive business information suc
 
 ## 📹 Demo Materials
 
-### Video Demonstration
+### LogisticsRouteOptimizer.mp4
 Our platform includes comprehensive video demonstrations showing:
 - Route optimization request workflow
 - Privacy-preserving calculation process
 - Encrypted result retrieval and visualization
 - Administrative route processing features
 
-### Transaction Screenshots
+### LogisticsRouteOptimizer.png
 The repository contains detailed screenshots of:
 - Smart contract deployment transactions
 - Route optimization request transactions
